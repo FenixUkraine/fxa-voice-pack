@@ -9,3 +9,4 @@ spk_xvector.ark
 **/.DS_Store
 test
 config.yaml
+*.zip
