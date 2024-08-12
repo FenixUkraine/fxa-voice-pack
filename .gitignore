@@ -1,0 +1,11 @@
+.venv
+tts
+*.wav
+**/*.wav
+model.pth
+feats_stats.npz
+spk_xvector.ark
+.DS_Store
+**/.DS_Store
+test
+config.yaml
