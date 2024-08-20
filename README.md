@@ -18,3 +18,8 @@ source .venv/bin/activate
 python -m pip install git+https://github.com/robinhad/ukrainian-tts.git
 ```
 
+Для конвертування у AMR-WB можна скористатись версією ffmpeg звідси https://evermeet.cx/ffmpeg/
+
+Або через API
+
+https://evermeet.cx/ffmpeg/get/zip
